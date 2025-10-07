@@ -10,5 +10,6 @@ seaborn==0.13.2
 spyder==5.5.1
 streamlit==1.37.1
 scikit-learn==1.5.2
+Python==3.12.7
 
 
